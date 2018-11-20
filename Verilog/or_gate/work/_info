@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog
+vor_gate
+!s110 1542723779
+!i10b 1
+!s100 Si>ULoHNF@z6l33z7Z:;e0
+I:d@WRn?8UBY?<Gz3C<?H_1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate
+w1542723345
+Z2 8C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/or_gate_code.v
+Z3 FC:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/or_gate_code.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1542723779.000000
+Z5 !s107 C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/or_gate_code.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/or_gate_code.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vor_gate_code
+!s110 1542724014
+!i10b 1
+!s100 :1KH??e[[^Jg0]^U_mio82
+IPC]FKaXQbQ_lbKT3GOOCR2
+R0
+R1
+w1542723989
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1542724014.000000
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+vtestbench_or_gate
+!s110 1542724265
+!i10b 1
+!s100 5K7_Y<UZ9zd:`M=T]8KaA0
+IIQ>:NjINN<8[o1zGL5;OS0
+R0
+R1
+w1542724185
+8C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/testbench_or_gate.v
+FC:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/testbench_or_gate.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1542724265.000000
+!s107 C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/testbench_or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/or_gate/testbench_or_gate.v|
+!s101 -O0
+!i113 1
+R7

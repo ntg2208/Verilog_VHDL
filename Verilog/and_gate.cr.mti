@@ -1,0 +1,15 @@
+C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/testbench_and_gate.v {1 {vlog -work work -stats=none C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/testbench_and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench_and_gate
+
+Top level modules:
+	testbench_and_gate
+
+} {} {}} C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/and_gate.v {1 {vlog -work work -stats=none {C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\and_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

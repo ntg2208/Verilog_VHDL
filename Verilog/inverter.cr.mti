@@ -1,0 +1,15 @@
+C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/testbench_inverter.v {1 {vlog -work work -stats=none {C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_inverter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench_inverter
+
+Top level modules:
+	testbench_inverter
+
+} {} {}} C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/inverter.v {1 {vlog -work work -stats=none {C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\inverter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module inverter
+
+Top level modules:
+	inverter
+
+} {} {}}

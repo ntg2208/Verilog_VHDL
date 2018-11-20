@@ -29,6 +29,69 @@ r1
 !s101 -O0
 !i113 1
 Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vinverter
+!s110 1542724909
+!i10b 1
+!s100 g625Ao]4T3;`;cY:h2MnB3
+IXTIN^z?T8R1eZRGS78Blm1
+R0
+R1
+w1542724903
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\inverter.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\inverter.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1542724909.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\inverter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\inverter.v|
+!s101 -O0
+!i113 1
+R3
+vnand_gate
+!s110 1542725895
+!i10b 1
+!s100 m=>k>U=?cfHG::X_leV:k1
+IZ]5D;1kHYz^;5WeARHb630
+R0
+R1
+w1542725756
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\nand_gate.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\nand_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1542725895.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\nand_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\nand_gate.v|
+!s101 -O0
+!i113 1
+R3
+vnor_gate
+Z4 !s110 1542727285
+!i10b 1
+!s100 ?PXFUVBl8638;LFf`DCY;3
+IeWWob@SU98A=OJfbnPT_<0
+R0
+R1
+w1542727208
+Z5 8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xor_gate.v
+Z6 FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xor_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z7 !s108 1542727285.000000
+Z8 !s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xor_gate.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xor_gate.v|
+!s101 -O0
+!i113 1
+R3
 vtestbench_and_gate
 !s110 1542722052
 !i10b 1
@@ -47,6 +110,153 @@ r1
 !s108 1542722051.000000
 !s107 C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/testbench_and_gate.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Admin/Desktop/MyGit/Verilog_VHDL/Verilog/testbench_and_gate.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_inverter
+!s110 1542725014
+!i10b 1
+!s100 UF7h5KY58K;?zOK<eo3401
+Iac_<4UHL4X?3?3FF=cNVR1
+R0
+R1
+w1542725007
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_inverter.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_inverter.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1542725014.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_inverter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_inverter.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_nand_gate
+!s110 1542726031
+!i10b 1
+!s100 SFlKg=>T];<]YlljZHeHg0
+Ie5bGfMIdEBOk<10mfYc9g0
+R0
+R1
+w1542725999
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nand_gate.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nand_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1542726031.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nand_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nand_gate.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_nor_gate
+R4
+!i10b 1
+!s100 4_An>TOFah=LWaO?6CB1^1
+Il=[cT@<Gzn^<A[:EY:L>k3
+R0
+R1
+w1542727098
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nor_gate.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nor_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_nor_gate.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_xnor_gate
+Z10 !s110 1542727709
+!i10b 1
+!s100 7d2A:_Nl<AA0l_P;iUib03
+IVQN>0`mOL<2GlGjkn__OI3
+R0
+R1
+w1542727702
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xnor_gate.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xnor_gate.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z11 !s108 1542727709.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xnor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xnor_gate.v|
+!s101 -O0
+!i113 1
+R3
+vtestbench_xor_gate
+Z12 !s110 1542727470
+!i10b 1
+!s100 GedV2X[mDVLo86Y8QK;JK1
+Im77ohdS1D@bECbg]UN>m^2
+R0
+R1
+w1542727463
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xor.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xor.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z13 !s108 1542727470.000000
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\testbench_xor.v|
+!s101 -O0
+!i113 1
+R3
+vxnor_gate
+R10
+!i10b 1
+!s100 S1zWFL_VAXWn7eM4lQ4[70
+IllZa]i;ZTDK0YQ:[3Bk9G1
+R0
+R1
+w1542727672
+8C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xnor_gate.v
+FC:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xnor_gate.v
+L0 1
+R2
+r1
+!s85 0
+31
+R11
+!s107 C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xnor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Admin\Desktop\MyGit\Verilog_VHDL\Verilog\xnor_gate.v|
+!s101 -O0
+!i113 1
+R3
+vxor_gate
+R12
+!i10b 1
+!s100 Ei6fY=I2LdYjB[L8]>jVH1
+IR83gbXHOdTD=nZ@`_DS7?0
+R0
+R1
+w1542727430
+R5
+R6
+L0 2
+R2
+r1
+!s85 0
+31
+R13
+R8
+R9
 !s101 -O0
 !i113 1
 R3
